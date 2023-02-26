@@ -7,9 +7,9 @@ Here my objective is to develop a model that can accurately identify DDoS attack
 
 ## Tools and Technologies Used
 
-                 **Kai Linux**
-  #### * hping3
-  #### Metasploitable 2
+#### Kali Linux
+#### * hping3
+#### Metasploitable 2
 #### Wireshark
 #### Google Colab IDE
 #### Python, Pandas Lib
@@ -21,5 +21,7 @@ Here my objective is to develop a model that can accurately identify DDoS attack
 
 ![Flowchart](https://user-images.githubusercontent.com/97841784/221419166-2c22e2b8-9220-445c-a94f-301a38da00e4.png)
 
+## Dataset
 
+The dataset used in this project is a collection of network traffic data captured during simulated DDoS attacks. The data was captured using Wireshark, a popular network protocol analyzer tool. The dataset contains various features such as packet size, protocol type, source and destination IP addresses, timestamp, zdestination port, Info.
 
