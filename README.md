@@ -7,13 +7,13 @@ Here my objective is to develop a model that can accurately identify DDoS attack
 
 ## Tools and Technologies Used
 
-#### ""Kali Linux""
-#### ""hping3""
-#### ""Metasploitable 2""
-#### ""Wireshark""
-#### ""Google Colab IDE""
-#### ""Python, Pandas Lib""
-#### ""ML Algo:- SVM(Support Vector Machine)""
+#### + Kali Linux
+#### hping3
+#### Metasploitable 2
+#### Wireshark
+#### Google Colab IDE
+#### Python, Pandas Lib
+#### ML Algo:- SVM(Support Vector Machine)
 
 ## Methodology
 
