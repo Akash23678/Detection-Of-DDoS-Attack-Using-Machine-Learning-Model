@@ -12,4 +12,9 @@ Here my objective is to develop a model that can accurately identify DDoS attack
 #### Metasploitable 2
 #### Wireshark
 #### Google Colab IDE
+#### ML Algo:- SVM(Support Vector Machine)
+
+## Methodology
+
+
 
