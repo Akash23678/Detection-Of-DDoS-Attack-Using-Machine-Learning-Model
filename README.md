@@ -23,5 +23,9 @@ Here my objective is to develop a model that can accurately identify DDoS attack
 
 ## Dataset
 
-The dataset used in this project is a collection of network traffic data captured during simulated DDoS attacks. The data was captured using Wireshark, a popular network protocol analyzer tool. The dataset contains various features such as packet size, protocol type, source and destination IP addresses, timestamp, zdestination port, Info.
+The dataset used in this project is a collection of network traffic data captured during simulated DDoS attacks. 
+The data was captured using Wireshark, a popular network protocol analyzer tool. The dataset contains various 
+features such as packet size, protocol type, source and destination IP addresses, timestamp, destination port,Info.
+
+## DDoS Attack Launching
 
