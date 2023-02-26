@@ -17,5 +17,6 @@ Here my objective is to develop a model that can accurately identify DDoS attack
 
 ## Methodology
 
+https://github.com/Akash23678/Detection-Of-DDoS-Attack-Using-Machine-Learning-Model/issues/1#issue-1600090587
 
 
