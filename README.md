@@ -3,7 +3,7 @@
 
 ## Overview
 
-Here my objective is to develop a model that can accurately identify DDoS attacks in network traffic data. This will help the ""organizations"" detect and respond to DDoS attacks in a timely manner, protect their digital assets, prevent revenue loss and maintain their reputaion by detecting and mitigation DDoS attacks quickly and effectively. Furthermore, this model has the potential to improve internet access for ""individuals"" by reducing the impact of DDoS attacks on internet infrastructure and services.
+Here my objective is to develop a model that can accurately identify DDoS attacks in network traffic data. This will help the ""organizations"" detect and respond to DDoS attacks in a timely manner, protect their digital assets, prevent revenue loss and maintain their reputaion by detecting and mitigation DDoS attacks quickly and effectively. Furthermore, this model has the potential to improve internet access for **individuals** by reducing the impact of DDoS attacks on internet infrastructure and services.
 
 ## Tools and Technologies Used
 
