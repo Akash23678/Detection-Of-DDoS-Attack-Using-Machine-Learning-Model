@@ -27,11 +27,19 @@ The dataset used in this project is a collection of network traffic data capture
 The data was captured using Wireshark, a popular network protocol analyzer tool. The dataset contains various 
 features such as packet size, protocol type, source and destination IP addresses, timestamp, destination port,Info.
 
+## 3-Way Handshaking Mechanism
+ #### Before went to DDoS Attack, we should know about 3-way handshaking mechanism where user sent the syn packet to the server for communication puposes. 
+ * Normal User:
+  ![3-way handshaking](https://user-images.githubusercontent.com/97841784/222208847-f88439b8-7c52-4417-988a-d9207639b38a.png)
+
+     
+ * Malicious User:
+
+  ![Spoof 3-way handshak](https://user-images.githubusercontent.com/97841784/222208939-5ac089de-f67a-46d3-a690-0763b47c6a5d.png)
+
+
 ## DDoS Attack Launching
 
-#### Normal User Case:
-
-#### Attacker Case:
 ![tcp_syn flood attack](https://user-images.githubusercontent.com/97841784/222155170-1c818fea-8984-4dce-87f6-5fc37baf68dc.jpg)
 
 
