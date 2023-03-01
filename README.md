@@ -1,7 +1,7 @@
-                                                         ![Welcome](https://user-images.githubusercontent.com/97841784/222218212-6aa5b278-4bcd-4c00-b404-a421344bfe13.png)
+                                                    ![Welcome](https://user-images.githubusercontent.com/97841784/222218212-6aa5b278-4bcd-4c00-b404-a421344bfe13.png)
                                 
 
-## Hi I'm Akash !!  *    ![hii](https://user-images.githubusercontent.com/97841784/222218341-e6d6fa55-c868-442b-adf7-f1791f708a1e.png)
+## Hi I'm Akash !!  
 
 
 Hi, my name is Akash and I am a computer science student. I am also interested in the field of cybersecurity and have been working on this project to develop a model for detecting DDoS attacks. In my free time, I enjoy learning about new technologies and exploring the latest developments in the field of computer science
