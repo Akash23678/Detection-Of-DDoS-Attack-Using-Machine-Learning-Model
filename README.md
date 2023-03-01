@@ -18,6 +18,8 @@ Hi, my name is Akash and I am a computer science student. I am also interested i
 # Detection-Of-DDoS-Attack-Using-Machine-Learning-Model
 
 
+
+
 ## Project Overview
 
 Here my objective is to develop a model that can accurately identify DDoS attacks in network traffic data. This will help the **organizations** detect and respond to DDoS attacks in a timely manner, protect their digital assets, prevent revenue loss and maintain their reputaion by detecting and mitigation DDoS attacks quickly and effectively. Furthermore, this model has the potential to improve internet access for **individuals** by reducing the impact of DDoS attacks on internet infrastructure and services.
@@ -82,5 +84,9 @@ features such as packet size, protocol type, source and destination IP addresses
 
 
 
+
+
+
+## Any Doubt
 
 #### I am always open to feedback and suggestions, and if you have any queries regarding this project or anything related to computer science, please feel free to reach out to me.
