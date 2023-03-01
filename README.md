@@ -1,10 +1,11 @@
 ## Hi I'm Akash !!   
-![hii](https://user-images.githubusercontent.com/97841784/222216073-0c35672f-8d95-49c3-9c7b-4873c2c69cd3.png
+
 Hi, my name is Akash and I am a computer science student. I am also interested in the field of cybersecurity and have been working on this project to develop a model for detecting DDoS attacks. In my free time, I enjoy learning about new technologies and exploring the latest developments in the field of computer science
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/akash-chandra-sahu-54016818a/)   
+[![Screenshot 2023-03-01 230432](https://user-images.githubusercontent.com/97841784/222218069-91f2f6c2-c7af-4c8d-b828-865ef49843e4.png)
+](https://www.linkedin.com/in/akash-chandra-sahu-54016818a/)   
 
 
 # Detection-Of-DDoS-Attack-Using-Machine-Learning-Model
