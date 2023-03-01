@@ -1,4 +1,5 @@
-## Hi I'm Akash !!    ![hii](https://user-images.githubusercontent.com/97841784/222216073-0c35672f-8d95-49c3-9c7b-4873c2c69cd3.png
+## Hi I'm Akash !!   
+![hii](https://user-images.githubusercontent.com/97841784/222216073-0c35672f-8d95-49c3-9c7b-4873c2c69cd3.png
 Hi, my name is Akash and I am a computer science student. I am also interested in the field of cybersecurity and have been working on this project to develop a model for detecting DDoS attacks. In my free time, I enjoy learning about new technologies and exploring the latest developments in the field of computer science
 
 ## Connect With Me
@@ -74,4 +75,4 @@ features such as packet size, protocol type, source and destination IP addresses
 
 
 
-
+#### I am always open to feedback and suggestions, and if you have any queries regarding this project or anything related to computer science, please feel free to reach out to me.
