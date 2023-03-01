@@ -30,6 +30,7 @@ features such as packet size, protocol type, source and destination IP addresses
 ## 3-Way Handshaking Mechanism
  #### Before went to DDoS Attack, we should know about 3-way handshaking mechanism where user sent the syn packet to the server for communication puposes. 
  * Normal User:
+ 
   ![3-way handshaking](https://user-images.githubusercontent.com/97841784/222208847-f88439b8-7c52-4417-988a-d9207639b38a.png)
 
      
