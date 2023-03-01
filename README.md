@@ -1,4 +1,7 @@
-                                                    ![Welcome](https://user-images.githubusercontent.com/97841784/222218212-6aa5b278-4bcd-4c00-b404-a421344bfe13.png)
+
+
+![Welcome](https://user-images.githubusercontent.com/97841784/222218618-8af6b657-4533-49dd-9f5c-ce31118a4a78.png)
+
                                 
 
 ## Hi I'm Akash !!  
