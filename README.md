@@ -29,7 +29,7 @@ features such as packet size, protocol type, source and destination IP addresses
 
 ## DDoS Attack Launching
 
-![tcp_syn flood attack](https://user-images.githubusercontent.com/97841784/222154680-af3ff716-35ba-47dc-9cb4-53137309591d.png)
+![tcp_syn flood attack](https://user-images.githubusercontent.com/97841784/222155170-1c818fea-8984-4dce-87f6-5fc37baf68dc.jpg)
 
 
 
