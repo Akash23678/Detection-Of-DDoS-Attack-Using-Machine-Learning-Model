@@ -32,5 +32,6 @@ features such as packet size, protocol type, source and destination IP addresses
 ![tcp_syn flood attack](https://user-images.githubusercontent.com/97841784/222155170-1c818fea-8984-4dce-87f6-5fc37baf68dc.jpg)
 
 
+I used the hping3 command-line tool to launch a TCP SYN flood attack, which is a type of DDoS attack, to the target IP address by sending a massive amount of fake requests/packets using a spoofed IP address. Before launching the attack, I analyzed the packets in Wireshark. After launching the attack, the target server would not work.
 
 
