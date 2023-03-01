@@ -1,7 +1,15 @@
+## Hi I'm Akash !!    ![hii](https://user-images.githubusercontent.com/97841784/222216073-0c35672f-8d95-49c3-9c7b-4873c2c69cd3.png
+Hi, my name is Akash and I am a computer science student. I am also interested in the field of cybersecurity and have been working on this project to develop a model for detecting DDoS attacks. In my free time, I enjoy learning about new technologies and exploring the latest developments in the field of computer science
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/akash-chandra-sahu-54016818a/)   
+
+
 # Detection-Of-DDoS-Attack-Using-Machine-Learning-Model
 
 
-## Overview
+## Project Overview
 
 Here my objective is to develop a model that can accurately identify DDoS attacks in network traffic data. This will help the **organizations** detect and respond to DDoS attacks in a timely manner, protect their digital assets, prevent revenue loss and maintain their reputaion by detecting and mitigation DDoS attacks quickly and effectively. Furthermore, this model has the potential to improve internet access for **individuals** by reducing the impact of DDoS attacks on internet infrastructure and services.
 
