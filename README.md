@@ -7,7 +7,7 @@ Here my objective is to develop a model that can accurately identify DDoS attack
 
 ## Tools and Technologies Used
 
- * Kali Linux
+ * **Kali Linux**
 #### hping3
 #### Metasploitable 2
 #### Wireshark
